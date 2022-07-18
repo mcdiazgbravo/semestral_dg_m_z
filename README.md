@@ -1,1 +1,4 @@
-# semestral_dg_m_z
+# Proyecto Semestral de Tópicos II
+# Díaz-Gómez, Marie
+# Martínez, Margareth 
+# Zeledón, Diana
